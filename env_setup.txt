@@ -5,3 +5,7 @@ Windows 10 + Atom
 (mingw64)
 $ git config --global user.email "yourgithubaccount@whatever.com"
 $ git config --global user.name "yourgithubusername"
+
+Ruby installation (version > 2.5)
+https://rubyinstaller.org/downloads/
+RubyInstaller DevKit
