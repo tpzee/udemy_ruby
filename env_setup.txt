@@ -1,0 +1,7 @@
+Windows 10 + Atom
+- install git on Windows 10
+- don't forget to configure your git to work with your githbud account
+
+(mingw64)
+$ git config --global user.email "yourgithubaccount@whatever.com"
+$ git config --global user.name "yourgithubusername"
